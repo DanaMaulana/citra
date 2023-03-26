@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(270deg, rgb(250, 97, 101) 50%, rgb(252, 231, 124) 50%);
+}
+h1 {
+  font-size: 3.4rem;
+  text-transform: uppercase;
+  color: #22293d;
+  text-align: center;
+  line-height: 50vw;
+}
